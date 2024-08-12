@@ -1,0 +1,13 @@
+{
+  "name": "minidash",
+  "version": "1.0.0",
+  "description": "MiniDash는 Lodash를 경량화하고 간소화 시킨 JavaScript 유틸리티 라이브러리입니다.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nulzi",
+  "license": "ISC"
+}
