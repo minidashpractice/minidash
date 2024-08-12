@@ -6,7 +6,7 @@ on: # 워크플로우 실행 트리거
 
 jobs: # 작업정의
   check: 
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     permissions: #권한 설정
       pull-requests: write # PR 쓰기 권한 설정
     steps: # 작업 단계
