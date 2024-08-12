@@ -10,7 +10,7 @@ jobs: # 작업정의
     permissions: #권한 설정
       pull-requests: write # PR 쓰기 권한 설정
     steps: # 작업 단계
-      - uses: actions/github-script@7
+      - uses: actions/github-script@v7
         with:
           script: | # 스크립트 시작
             async function run() {
